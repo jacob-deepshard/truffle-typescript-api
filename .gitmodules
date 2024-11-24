@@ -1,0 +1,3 @@
+[submodule "truffleos-protobuf"]
+	path = truffleos-protobuf
+	url = git@github.com:deepshard/truffleos-protobuf.git
